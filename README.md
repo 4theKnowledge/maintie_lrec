@@ -36,7 +36,7 @@ The MaintIE annotation scheme is described in the [Scheme](./SCHEME.md) section 
 
 ### 3.1. Overview
 
-The annotated MaintIE corpora is composed of two sub-corpora - 1) the Fine-Grained Expert-Annotated corpus (`./data/gold_release.json`), and 2) the Coarse-Grained Large-Scale corpus (`./data/silver_release.json`). Statistics of the MaintIE corpora, including the top-level entities and relations in these two sub-corpora, are outlined [below](#statistics). Please see the (Data)[./DATA.md] section for detailed distributions of the corpora entities and relations.
+The annotated MaintIE corpora is composed of two sub-corpora - 1) the Fine-Grained Expert-Annotated corpus (`./data/gold_release.json`), and 2) the Coarse-Grained Large-Scale corpus (`./data/silver_release.json`). Statistics of the MaintIE corpora, including the top-level entities and relations in these two sub-corpora, are outlined [below](#statistics). Please see the [Data](DATA.md) section for detailed distributions of the corpora entities and relations.
 
 ### 3.2. Format
 
